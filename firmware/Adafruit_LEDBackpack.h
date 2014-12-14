@@ -18,6 +18,7 @@
   BSD license, all text above must be included in any redistribution
  ****************************************************/
 
+#include "spark_wiring_i2c.h"
 #include "Adafruit_GFX.h"
 
 #define LED_ON 1
